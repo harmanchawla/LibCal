@@ -1,2 +1,1 @@
-# LibCal
-Course Project: Human Computer Interaction
+# LibCal: A simple chatbot designed for NYU Dibner Library
