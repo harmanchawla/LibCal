@@ -1,7 +1,7 @@
 # LibCal: A simple chatbot designed for NYU Dibner Library
 Course project: Human-Computer Interaction
 
-The project task was to design a front-end UI for a chatbot. I chose to implement one in context to NYU's Engineering Library. All the UI code has been <b> written from scratch without using external frameworks and tools </b> like bootstrap. The project relies heavily on Javascript, HTML and CSS. Since the project had to be completely front-end, I used <i>Rivescript.js</i> to implement the <i> brain </i> of the chatbot.
+The project task was to design a front-end UI for a chatbot. I chose to implement one for NYU's Engineering Library. All the UI code has been <b> written from scratch without using external frameworks and tools </b> like bootstrap. The project relies heavily on Javascript, HTML and CSS. Since the project had to be completely front-end, I used <i>Rivescript.js</i> to implement the <i> brain </i> of the chatbot.
 
 Additional features: The chatbot can read out its responses. This was implemented using <i> responsivevoice.js </i> and can be switched off if the user doesn't need it. 
 
